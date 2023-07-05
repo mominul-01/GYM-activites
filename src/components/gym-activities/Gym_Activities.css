@@ -1,0 +1,63 @@
+.activities-item{
+    width: 350px;
+    height: 480px;
+    border: 2px solid goldenrod;
+    border-radius: 8px;
+    position: relative;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.activities-item img{
+    width: 286px;
+    height: 186px;
+    border-radius: 8px;
+    margin: 8px;
+}
+
+
+.activity-info{
+    
+    padding: 10px;
+   
+}
+.activity-info h4{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 25px;
+    margin-top: 7px;
+}
+.activity-info h5{
+    font-size: 21px;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.activity-info p{
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-size: 20px;
+    color: rgb(82, 87, 91);
+}
+
+.add-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background: orchid;
+  border:  none;
+  border-radius:  8px;
+  position: relative;
+ 
+  padding: 5px;
+}
+.add-btn p{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 5px;
+}
+.add-btn:hover{
+    background-color: goldenrod;
+}

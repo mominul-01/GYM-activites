@@ -1,0 +1,9 @@
+.logo-section{
+    display: flex;
+    margin: 10px 40px;
+    background-color: orchid;
+    
+ }
+ .logo-section img{
+     height: 80px;
+ }

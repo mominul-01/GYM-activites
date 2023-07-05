@@ -1,0 +1,92 @@
+[
+  {
+      "id": "6476e97c1f40b35df7be5a2f",
+      "activity_name": "Weightlifting",
+      "activity_des": "Strength training using barbells and dumbbells",
+      "activity-img": "weightlifting.jpg",
+      "img_url": "https://fitnessdrum.com/wp-content/uploads/2021/10/best-weighlifting-apps-min.png",
+      "age": "16+",
+      "activity_time": "60 minutes"
+    },
+    {
+      "id": "6476e97c1f32f35788b840ed",
+      "activity_name": "Cardio Kickboxing",
+      "activity_des": "High-intensity cardio workout combining boxing and martial arts techniques",
+      "activity-img": "cardio_kickboxing.jpg",
+      "img_url": "https://media1.popsugar-assets.com/files/thumbor/pNqsF5Z1e2PgO8vf0bn2f5C1TAE/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/06/15/563/n/1922729/f11353565ee76a0f521238.43296005_IMG_6681/i/Cardio-Kickboxing-Workout.JPG",
+      "age": "18+",
+      "activity_time": "45 minutes"
+    },
+    {
+      "id": "6476e97c2aa09281ff4e61a4",
+      "activity_name": "Yoga",
+      "activity_des": "Mind-body practice incorporating physical postures, breathing exercises, and meditation",
+      "activity-img": "yoga.jpg",
+      "img_url": "https://static.nike.com/a/images/w_1920,c_limit/43f01829-d882-4999-bd6c-0e958191c670/the-top-3-yoga-poses-to-get-stronger-according-to-experts.jpg",
+      "age": "All ages",
+      "activity_time": "60 minutes"
+    },
+    {
+      "id": "6476e97c8698c283a8d146a7",
+      "activity_name": "Circuit Training",
+      "activity_des": "Full-body workout involving a series of exercises targeting different muscle groups",
+      "activity-img": "circuit_training.jpg",
+      "img_url": "https://i1.wp.com/www.thebarbell.com/wp-content/uploads/2022/08/circuit-training.jpg?resize=1068%2C780&ssl=1",
+      "age": "16+",
+      "activity_time": "45 minutes"
+    },
+    {
+      "id": "6476e97c649cca3f5a21e4d9",
+      "activity_name": "Zumba",
+      "activity_des": "Dance fitness program combining Latin and international music with fun dance moves",
+      "activity-img": "zumba.jpg",
+      "img_url": "https://img.freepik.com/free-photo/active-people-taking-part-zumba-class-together_23-2149074932.jpg?w=2000",
+      "age": "All ages",
+      "activity_time": "60 minutes"
+    },
+    {
+      "id": "6476e97cc2f0a90dfeb5a7c6",
+      "activity_name": "Pilates",
+      "activity_des": "Low-impact exercise method focusing on core strength, flexibility, and body awareness",
+      "activity-img": "pilates.jpg",
+      "img_url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/04/pilates-machine-reformer-1296x728-header.jpg?w=1155&h=1528",
+      "age": "16+",
+      "activity_time": "60 minutes"
+    },
+    {
+      "id": "6476e97c31911b1ecb265438",
+      "activity_name": "Spinning",
+      "activity_des": "Indoor cycling workout on stationary bikes with varying intensity levels",
+      "activity-img": "spinning.jpg",
+      "img_url": "https://www.ispo.com/sites/default/files/2021-12/Spinning_Frau.jpg",
+      "age": "16+",
+      "activity_time": "45 minutes"
+    },
+    {
+        "id": "6476e97ca263f7e7bfec3a83",
+        "activity_name": "CrossFit",
+        "activity_des": "High-intensity functional fitness training combining elements of weightlifting, cardio, and gymnastics",
+        "activity-img": "crossfit.jpg",
+        "img_url": "https://www.shape.com/thmb/_uLfWH4_zVMkpXJoAZ22TallLV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Guide-to-CrossFit-GettyImages-1273779738-1c10400251de4b2fa27f8d3fd9c5a63a.jpg",
+        "age": "18+",
+        "activity_time": "60 minutes"
+    },
+    {
+      "id": "6476e97cf50f7dd83bce4ec7",
+      "activity_name": "Swimming",
+      "activity_des": "Low-impact cardiovascular exercise performed in the water",
+      "activity-img": "swimming.jpg",
+      "img_url": "https://i.cbc.ca/1.6411185.1649291842!/fileImage/httpImage/1360208522.jpg",
+      "age": "All ages",
+      "activity_time": "60 minutes"
+    },
+    {
+      "id": "6476e97c3db46eda9cfb9dec",
+      "activity_name": "HIIT (High-Intensity Interval Training)",
+      "activity_des": "Interval-based workout involving short bursts of intense exercise followed by periods of rest",
+      "activity-img": "hiit.jpg",
+      "img_url": "https://static01.nyt.com/images/2023/03/21/multimedia/14WNT-HIIT-WORKOUTS1-lktg/14WNT-HIIT-WORKOUTS1-lktg-videoSixteenByNine3000.jpg",
+      "age": "18+",
+      "activity_time": "30 minutes"
+    }
+]

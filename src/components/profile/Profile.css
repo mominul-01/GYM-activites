@@ -1,0 +1,140 @@
+.Profile-container-page{
+    position: sticky;
+    top:0;
+    width: 400px;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: white;
+    margin-right: 20px;
+    height: 50%;
+   
+}
+.profile{
+    display: flex;
+    padding: 15px;
+    
+}
+
+.profile img{
+    width: 70px;
+    height: 70px;
+}
+.profile-info{
+    padding-left: 15px;
+    padding-top: 10px;
+    margin: 0;
+}
+.profile-info h3{
+    font-size: 24px;
+    margin: 0;
+
+}
+.profile-info p{
+    margin: 0;
+    font-size: 20px;
+}
+.profile-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid goldenrod ;
+    border-radius: 5px;
+    background-color: oldlace ;
+    padding: 4px;
+    margin: 10px;
+
+}
+.profile-details-item h3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 24px;
+    margin: 0;
+}
+.profile-details-item p{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    margin: 0;
+}
+.break-section h2{
+    padding: 10px;
+
+}
+.time-selected{
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    border: 1px solid goldenrod ;
+    border-radius: 5px;
+    background-color: oldlace ;
+    padding: 4px;
+    margin: 10px;
+
+}
+.time-selected p{
+   font-size: 20px;
+    background-color: white;
+    text-decoration: none;
+    border: 2px solid goldenrod;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 7px;
+
+}
+.time-selected p:hover{
+    background-color: gold;
+}
+.exercise-details{
+    padding: 10px;
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: oldlace ;
+}
+.time h4{
+    font-size: 25px;
+    margin: 10px;
+}
+.time p{
+    font-size: 20px;
+    color: orchid;
+}
+.break{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: oldlace ;
+    margin-top: 20px;
+}
+.break h4{
+    font-size: 25px;
+    margin: 10px;
+}
+.break p{
+    font-size: 20px;
+    color: orchid;
+}
+.btn-complected{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    background: orchid;
+    border:  none;
+    border-radius:  8px;
+    padding: 6px;
+    margin-top: 30px ;
+    margin-left: 20px;
+
+}
+.btn-complected p{
+    margin: 0;
+    padding: 10px;
+    font-size: 25px;
+}
